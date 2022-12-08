@@ -1,0 +1,119 @@
+
+body{
+  background-color: #474973;
+
+}
+
+
+button, input {
+  cursor: pointer;
+}
+
+.center {
+  max-width: 300px;
+  text-align:center;
+  margin: auto;
+}
+
+.center2 {
+
+  text-align:center;
+  
+  
+}
+
+h2{
+  text-align: center;
+}
+
+
+
+
+button{
+  border-radius: 12px;
+  background-color: #ece5d3;
+  color: black;
+  font-size: 15px;
+  margin-left: 15px;
+  cursor: pointer;
+  scroll-behavior: smooth;
+}
+
+.p {
+  font-style: inherit;
+}
+
+.about-me{
+
+  border-radius: 20px;
+  max-width: 1024px;
+  margin: 20px auto 40px;
+  padding: 0px 40px 40px 40px; 
+  background-color: #ece5d3;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+
+#circle-img{
+
+    border-radius: 50%;
+
+}
+
+#education {
+  text-align: left;
+
+}
+
+#school{
+  text-align: left;
+}
+
+#education {
+  background-color: #ece5d3;
+  margin: 20px auto 30px;
+  display: table;
+  width: 100%;
+  border-radius: 25px;
+
+}
+
+.table-row {
+  display: table-row;
+  height: 150px;
+  width: 200px;
+}
+
+.table-cell1 {
+  border: 3px solid;
+  max-width: auto;
+  background: #2a2640;
+  border-radius: 0px 10 10 0px;
+  display: table-cell;
+  text-align: center;
+  margin: auto;
+}
+
+.table-cell2 {
+  border: 3px solid;
+  background-color: #ece5d3;
+  border-radius: 0px 25px 25px 0px;
+  display: table-cell;
+  padding: 2px;
+  width: 75%;
+  text-align: left;
+}
+
+.contant-me{
+
+  border-radius: 20px;
+  max-width: 1024px;
+  margin: 20px auto 40px;
+  padding: 0px 40px 40px 40px; 
+  background-color: #ece5d3;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
